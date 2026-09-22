@@ -157,10 +157,12 @@ Bachelor of Technology, Information Technology
 </p>
 
 ---
-
 ## 🐍 My Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arjumehta3/Arjumehta3/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
 > Note: this snake graphic needs a one-time GitHub Actions setup in a repo named `Arjumehta3` (same as your username). I can walk you through that if you want it working.
 
