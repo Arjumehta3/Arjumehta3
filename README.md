@@ -126,10 +126,10 @@ Java • Gradle • Local JSON Database
 
 # 🎓 Education
 
-**Raj Kumar Goel Institute of Technology and Management, Ghaziabad**
+**Raj Kumar Goel Institute of Technology and Management, Ghaziabad**  
 B.Tech, Information Technology & Computer Software Engineering (Sept 2023 – Apr 2027)
 
-**Dr. A.P.J. Abdul Kalam Technical University**
+**Dr. A.P.J. Abdul Kalam Technical University**  
 Bachelor of Technology, Information Technology
 
 ---
@@ -157,13 +157,12 @@ Bachelor of Technology, Information Technology
 </p>
 
 ---
----
 
 ## 🐍 My Contributions
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Arjumehta3/Arjumehta3/output/dist/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Arjumehta3/Arjumehta3/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
