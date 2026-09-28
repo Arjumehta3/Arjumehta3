@@ -31,7 +31,7 @@ I enjoy working across the stack with **Java, Spring Boot, Spring Security, Hibe
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,mongodb" />
 </p>
 
 ### Frameworks/Libraries
