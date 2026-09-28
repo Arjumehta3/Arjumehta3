@@ -47,7 +47,7 @@ I enjoy working across the stack with **Java, Spring Boot, Spring Security, Hibe
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,tomcat,apachejmeter,intellijidea" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,tomcat,jetbrain" />
 </p>
 
 ### Build Tools
